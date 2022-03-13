@@ -31,6 +31,7 @@ export default {
     "nuxt-webpack-optimisations",
     "@nuxtjs/composition-api/module",
     "@nuxtjs/tailwindcss",
+    "@nuxt/image",
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
